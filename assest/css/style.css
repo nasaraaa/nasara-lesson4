@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+header img{
+    width:122px;
+    height: 95.04px;
+    padding: 10px;
+}
+.main-photo{
+    width: 1640px;
+    height:613px ;
+    object-fit: contain;
+    opacity: 1;
+    margin-inline: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+article{
+    margin-left: 40px;
+}
+.title{
+    margin-top: 40px;
+}
+article img{
+    width: 483px;
+    height: 282px;
+    opacity: 1;
+}
+
+.more{
+    margin-left: 70px;
+}
+section img{
+    margin-top: 50px;
